@@ -1,0 +1,88 @@
+[
+    {
+        "Website": "https://www.snap.com",
+        "Extracted Details": {
+            "mission_statement": "We believe the camera presents the greatest opportunity to improve the way people live and communicate. We contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.",
+            "core_values": "Transparency is one of our core values at Snap.",
+            "products_services": "Snapchat app as well as our other products, services, and features, such as Bitmoji, Spectacles, and our advertising and commerce initiatives.",
+            "key_executives": "CEO, Evan Spiegel"
+        }
+    },
+    {
+        "Website": "https://www.dropbox.com",
+        "Extracted Details": {
+            "mission_statement": "Our mission is to design a more enlightened way of working Back in 2007, making work better for people meant designing a simpler way to keep files in sync. Today, it means designing products that reduce busywork so you can focus on the work that matters.",
+            "core_values": "We believe there’s a more enlightened way to work. Dropbox helps people be organized, stay focused, and get in sync with their teams.",
+            "products_services": "DropboxStore, share, and access files across devicesReplayReview and approve videos fasterBackupAutomatically back up your devicesReclaim.aiSchedule habits, tasks, and meetings with AIDashFind, organize, and protect company contentDocSendSend documents securely and track activitySignRequest and add signatures to documentsEarly accessPreview new product experiences",
+            "founding_year": "2007",
+            "founders": "Drew",
+            "key_executives": "Drew (co-founder), Saman (leads internal and external communications), Melanie (oversees global people team), Tim (oversees financial operations and strategy), Bart (leads our legal, risk and compliance, and public policy teams), Eric (oversees our Go-To-Market teams), Don (CFO of NIKE and in PepsiCo assignments worldwide), Lisa (CMO at OneTrust), Paul (one of tech’s most visionary leaders), Sara (chairman and CEO of The Dun & Bradstreet Corporation), Abhay (CPO & CTO at Adobe), Karen (CEO of Intercom), Michael (Group Partner of Y Combinator)",
+            "notable_awards_recognitions": "with Editors’ Choice Awards from the Google Play and Apple App Store"
+        }
+    },
+    {
+        "Website": "https://www.tesla.com",
+        "Extracted Details": {}
+    },
+    {
+        "Website": "https://www.spacex.com",
+        "Extracted Details": {
+            "mission_statement": "SpaceX believes a fully and rapidly reusable rocket is the pivotal breakthrough needed to substantially reduce the cost of space access.",
+            "products_services": "Falcon 9, Falcon Heavy, Dragon spacecraft, Starship spacecraft, Super Heavy rocket, Launch services",
+            "headquarters_location": "Hawthorne, California",
+            "notable_awards_recognitions": "First private company capable of returning a spacecraft from low-Earth orbit, first commercial spacecraft to deliver cargo to and from the International Space Station, first private company to take humans to the International Space Station, world’s first reflight of an orbital class rocket, first American spacecraft to autonomously dock with the orbiting laboratory, certified Falcon 9 and Crew Dragon human spaceflight system for crew missions to and from the space station"
+        }
+    },
+    {
+        "Website": "https://robinhood.com",
+        "Extracted Details": {
+            "mission_statement": "to democratize finance for all.",
+            "core_values": "Safety-First company. We pioneered, and continue to enable access for everyone. We believe everyone should have equal access to financial tools.",
+            "products_services": "Stocks & funds, Crypto, Options, Robinhood Gold membership, Robinhood Cash Card, Robinhood Gold Card, Futures and cleared swaps trading, Robinhood spending account, IRA accounts.",
+            "founders": "Baiju and Vlad",
+            "headquarters_location": "Menlo Park, California 94025, US",
+            "key_executives": "Vlad Tenev (Chairman and CEO), Chris Koegel (VP, Head of Corporate FP&A and Investor Relations), John Hegeman (Board of Directors), Christopher Payne (Board of Directors)"
+        }
+    },
+    {
+        "Website": "https://stripe.com",
+        "Extracted Details": {
+            "products_services": "Payments, Online payments, Terminal, In-person payments, Authorization, Acceptance optimisations, Connect, Payments for platforms, Billing, Subscriptions and usage-based, Revenue Recognition, Accounting automation, Tax, Sales tax & VAT automation, Invoicing, Online invoices, Payment methods, Access to 100+ globally, Financial Connections, Linked financial account data, Identity, Online identity verification"
+        }
+    },
+    {
+        "Website": "https://squareup.com",
+        "Extracted Details": {
+            "mission_statement": "Fifteen years ago, not all businesses could accept credit cards. Square set out to change that — inventing the first mobile card reader of its kind. This allowed businesses to take payments anywhere and keep thriving in the economy. It also completely disrupted how the financial system thinks about small businesses.",
+            "core_values": "Square innovates, collaborates, and learns for businesses that use Square and for each other. Its global presence, industry-leading distributed workforce, and high standards for personal excellence have made it among the best places to work.",
+            "products_services": "Hardware, Payments, Customers, Staff, Banking, Developers",
+            "founding_year": "2009"
+        }
+    },
+    {
+        "Website": "https://www.shopify.com",
+        "Extracted Details": {
+            "mission_statement": "Shopify makes commerce better for everyone with a platform and services that are engineered for reliability, while delivering a better shopping experience for consumers everywhere.",
+            "products_services": "ecommerce platform, online store builder, point of sale (POS), Shopify App Store, Shopify Shipping, Shopify Fulfillment Network, Shopify Capital, Shopify Flow",
+            "headquarters_location": "Ottawa, ON, CA",
+            "key_executives": "Tobi Lütke (CEO)"
+        }
+    },
+    {
+        "Website": "https://www.zara.com",
+        "Extracted Details": {}
+    },
+    {
+        "Website": "https://hmgroup.com",
+        "Extracted Details": {
+            "mission_statement": "Our founder had a vision. Erling Persson wanted to make great fashion available and affordable to everyone and do this in the right way. From a single store in 1947 we became a family of brands offering fashion and design to customers worldwide.",
+            "core_values": "Our values are the foundation of our culture Shared by all colleagues worldwide regardless of role, function, or brand, our values have been guiding and uniting us since 1947. They are integrated into our way of working – from our entrepreneurial spirit and long-term perspective to our constant drive to keep our customers at the heart of everything we do.",
+            "products_services": "clothing, accessories, footwear, cosmetics, home textiles, homeware and other products",
+            "founding_year": "1947",
+            "founders": "Erling Persson",
+            "headquarters_location": "Mäster Samuelsgatan 46, ASE-106 38 Stockholm, Sweden",
+            "key_executives": "Daniel Ervér (president and chief executive officer)",
+            "notable_awards_recognitions": "CDP gave us an A for our climateleadership this year, reflecting our efforts to increase transparency and deliver tangible progress. We remained in theDow Jones European and World Sustainability Indexesfor the 13th year running in 2024. In 2024,Fashion Revolutionreleased a special edition of itsFashion Transparency Indexzooming in on climate and energy related transparency. InWhat Fuels Fashion?We scored 61% placing us 3rd out of the 250 companies reviewed. We were featured inFTSE4Good Index Series. We were identified as one the companies with best practice in climate policy advocacy in the 2023Corporate Climate Policy Engagement Leaders report. In their2022 report, Platform Living Wage Financial (PLWF) assessed our work on wages in the supply chain as “advanced” for the second year running. H&M Group ranked 2 in Remake’s 2024Fashion Accountability Report. In 2023, Stand.earth placed us at the top of theirFossil Free Fashion Scorecard. TextileExchangeidentified us as one of 11 brands leading transformational change in the 2024Material Change Index."
+        }
+    }
+]
